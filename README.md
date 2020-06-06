@@ -1,6 +1,6 @@
 # Snake
 
-For my OOP class project I had to make an ASCII console game, so I chose one of the best old school classic games, (dramatic pause) Snake :D
+For my OOP class project I had to make an ASCII console game, so I chose one of the best old school classic games, (dramatic pause) Snake :D For the people who never played snake before here's a link with little more information about the game: https://en.wikipedia.org/wiki/Snake_(video_game_genre).
 
 When player starts the game, Main menu shows up and there are 3 options:
                    
