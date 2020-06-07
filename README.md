@@ -16,4 +16,4 @@ To move the snake player can only use arrow keys. Left arrow key(<-) to go left,
 
 # Files
 
-For setting bigger text (SNAKE and GAME OVER in Main and End screen) on board program uses 2 files (menucoordinates.txt, endcoordinates.txt), they hold letter coordinates so make sure they are in your project directory. Every letter is sperated by the empty row, and every row is one line that makes a letter. For example, (1 1 2 2) represents x1, y1, x2, y2 and program draws a line from point 1 to point 2. Furthermore, highscores are saved in highscores.txt which means that file should also be in project directory.
+For setting bigger text (SNAKE and GAME OVER in Main and End screen) on board program uses 2 files (menuCoordinates.txt, endCoordinates.txt), they hold letter coordinates so make sure they are in your project directory. Every letter is sperated by the empty row, and every row is one line that makes a letter. For example, (1 1 2 2) represents x1, y1, x2, y2 and program draws a line from point 1 to point 2. Furthermore, highscores are saved in highscores.txt which means that file should also be in project directory.
